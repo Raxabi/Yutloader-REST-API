@@ -1,0 +1,5 @@
+# This directory is the python virtualenv
+youtube-downloader-with-flask/
+
+# Database access and flask CLI environment variable
+.env
